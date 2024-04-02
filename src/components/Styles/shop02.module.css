@@ -1,0 +1,69 @@
+header{
+    width: 100%;
+    display: flex;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+    justify-content: center;
+}
+.katalog_text{
+    text-align: center;
+}
+.link{
+    text-decoration: none;
+    color: black;
+    margin-top: 20px;
+    font-size: 30px;
+}
+.container{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+}
+.title{
+    margin-top: 80px;
+    text-align: center;
+}
+.big_block{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.middle_block{
+    width: 60%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.picture{
+    background-color: white;
+    width: 400px;
+    height: 400px;
+}
+h2{
+    text-align: center;
+}
+.product{
+    display: flex;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    flex-direction: column;
+    margin-top: 20px;
+    justify-content: center;
+}
+h3{
+    text-align: center;
+    font-size: large;
+}
+button{
+    width: 80%;
+    background: #5178DB;
+    margin-left: 40px;
+    padding: 10px;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.mega_block{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}

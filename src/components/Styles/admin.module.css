@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+.block_box{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.container{
+    width: 80%;
+    display: flex;
+    background: #3982B7;
+    border-radius: 10px;
+    border-color: #3982B7;
+}
+h2{
+    color: white;
+    margin-left: 15px;
+}
