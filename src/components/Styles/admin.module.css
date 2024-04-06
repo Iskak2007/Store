@@ -9,11 +9,38 @@ h1{
 .container{
     width: 80%;
     display: flex;
+    align-items: center;
+    flex-direction: column;
     background: #3982B7;
-    border-radius: 10px;
+    border-radius: 15px;
     border-color: #3982B7;
 }
-h2{
+.newprod{
     color: white;
-    margin-left: 15px;
+}
+.wall{
+    width: 80%;
+    border-radius: 15px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+.trash{
+    width: 35px;
+    height: 35px;
+}
+.title{
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid gray;
+    justify-content: space-between;
+    margin-left: 20px;
+}
+button{
+    background-color: white;
+    color: black;
+    width: 20%;
+    margin-top: 15px;
+    padding: 20px;
+    box-shadow: 0px 4px 4px 0px #00000040;
 }

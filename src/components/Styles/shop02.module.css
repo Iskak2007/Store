@@ -52,7 +52,7 @@ h3{
     text-align: center;
     font-size: large;
 }
-button{
+.recycle{
     width: 80%;
     background: #5178DB;
     margin-left: 40px;
@@ -66,4 +66,16 @@ button{
     width: 100%;
     display: flex;
     justify-content: center;
+}
+.login{
+    background: #59EB70;
+    border: none;
+    border-radius: 15px;
+    color: white;
+    width: 30%;
+}
+.otherCon{
+    width: 40%;
+    display: flex;
+    flex-wrap: wrap;
 }

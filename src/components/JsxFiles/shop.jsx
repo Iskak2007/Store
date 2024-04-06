@@ -49,37 +49,37 @@ function Shop(){
                     <img className={s.picture} src="https://cdn1.ozone.ru/s3/multimedia-k/6484796972.jpg" alt="" />
                     <h2>Наушники Logitech G435</h2>
                     <h3>Цена: 6500</h3>
-                    <button>В корзину</button>
+                    <button className={s.recycle}>В корзину</button>
                 </div>
                 <div className={s.product}>
                     <img className={s.picture} src="https://i5.walmartimages.com/asr/95e87df7-bdb3-4f34-a166-b74927fb31f6.0518720641347852990cbd5976dfc544.jpeg" alt="" />
                     <h2>Мышка Logitech G203</h2>
                     <h3>Цена: 2000</h3>
-                    <button>В корзину</button>
+                    <button className={s.recycle}>В корзину</button>
                 </div>
                 <div className={s.product}>
                     <img className={s.picture} src="https://cdn1.ozone.ru/s3/multimedia-d/6146953921.jpg" alt="" />
                     <h2>Духи Jean Paul Gaultier</h2>
                     <h3>Цена: 8900</h3>
-                    <button>В корзину</button>
+                    <button className={s.recycle}>В корзину</button>
                 </div>
                 <div className={s.product}>
                     <img className={s.picture} src="https://avatars.mds.yandex.net/i?id=eafaebf0417e8ecada282411b057479f93b15069-9820447-images-thumbs&n=13" alt="" />
                     <h2>Обувь Salomon XT-6</h2>
                     <h3>Цена: 19500</h3>
-                    <button>В корзину</button>
+                    <button className={s.recycle}>В корзину</button>
                 </div>
                 <div className={s.product}>
                     <img className={s.picture} src="https://static.tweaktown.com/news/9/1/91765_01_apples-3-500-vision-pro-might-need-600-lenses-for-glasses-wearers_full.jpg" alt="" />
                     <h2>Очки Apple Vision Pro</h2>
                     <h3>Цена: 550000</h3>
-                    <button>В корзину</button>
+                    <button className={s.recycle}>В корзину</button>
                 </div>
                 <div className={s.product}>
                     <img className={s.picture} src="https://ehabgroup.com/media/Apple-iPhone-14-Pro-Max-6GB-256GB-Silver-web2.jpg" alt="" />
                     <h2>Телефон Iphone 15 Pro</h2>
                     <h3>Цена: 115000</h3>
-                    <button>В корзину</button>
+                    <button className={s.recycle}>В корзину</button>
                 </div>
             </div>
         </div>
