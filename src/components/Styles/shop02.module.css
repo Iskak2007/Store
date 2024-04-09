@@ -72,10 +72,17 @@ h3{
     border: none;
     border-radius: 15px;
     color: white;
-    width: 30%;
+    padding: 15px;
+    width: 25%;
 }
 .otherCon{
     width: 40%;
     display: flex;
+    justify-content: space-evenly;
+    align-items: center;
     flex-wrap: wrap;
+}
+.profile{
+    height: 50px;
+    width: 50px;
 }

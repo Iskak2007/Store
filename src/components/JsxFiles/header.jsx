@@ -11,7 +11,7 @@ function Header(){
             <div className={s.otherCon}>
                     <Link className={s.link} to={'/korzina'}>Корзина товаров</Link>
                     <button className={s.login}>Войти</button>
-                    <img src="./src/assets/image 9.png" alt="" />
+                    <img className={s.profile} src="./src/assets/image 9.png" alt="" />
                 </div>
         </header>
         </>
