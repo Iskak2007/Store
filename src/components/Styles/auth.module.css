@@ -1,0 +1,29 @@
+.mega_block{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.big_block{
+    width: 50%;
+    margin-top: 5%;
+    border-radius: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #F3F2F2;
+}
+input{
+    width: 50%;
+    border: 1px solid #7ABAE9;
+    padding: 10px;
+    border-radius: 10px;
+}
+.registration{
+    background: #6EDF47;
+    font-size: large;
+    color: white;
+    border: none;
+}
+.link{
+    color: #2182DC;
+}
