@@ -12,7 +12,7 @@ function Singin(){
                     <input required type='password'></input>
                     <button className={s.registration}>Войти</button>
                     <div>
-                    <h2>Нету аккаунта?<Link to='/singup' className={s.link}>Зарегистрироваться</Link></h2>
+                    <h2>Нету аккаунта?<Link to='/singin' className={s.link}>Зарегистрироваться</Link></h2>
                     </div>
                 </div>
             </div>
